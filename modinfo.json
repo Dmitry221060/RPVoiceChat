@@ -1,7 +1,7 @@
 {
     "type": "code",
-    "modid": "rpvoicechat",
-    "name": "RP Voice Chat",
+    "modid": "rpvoicechatfork",
+    "name": "RP Voice Chat (Fork)",
     "authors": [ "Ridderrasmus", "Purplep_", "Dmitry221060", "Nixie" ],
     "contributors": [ "Floffel", "blakdragan7", "Vlammar", "Kampftroll", "Nyuhnyash" ],
     "description": "A mod that adds in game voice proximity chat!",
